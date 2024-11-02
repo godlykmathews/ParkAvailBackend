@@ -37,8 +37,4 @@
 - **Reservations**: Users might be able to reserve a spot in advance, especially women, seniors, and disabled citizens.
 - **Smart Notifications**: Alerts when parking becomes available or is about to expire.
 
-### Repositories
-   - Android App Repo: https://github.com/Abhijith0422/ParkAvail
-   - Backend API Repo: https://github.com/godlykmathews/ParkAvailAltas
-   - Admin Panel Repo: https://github.com/godlykmathews/ParkAvailAdmin
    
